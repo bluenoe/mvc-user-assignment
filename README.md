@@ -37,9 +37,9 @@ cd mvc-user-management
 ```
 2) Move the folder into your web server root (or clone there directly) 
 
-XAMPP → htdocs/mvc_user
+- XAMPP → htdocs/mvc_user
 
-Laragon → www/mvc_user
+- Laragon → www/mvc_user
 
 3) Create database and seed data
 

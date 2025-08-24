@@ -1,4 +1,4 @@
-<img width="1311" height="456" alt="image" src="https://github.com/user-attachments/assets/8ece6f53-bb68-40d5-88be-c20a8626bbd3" /># MVC User Management Assignment
+#MVC User Management Assignment
 
 Assignment PHP MVC at school.  
 This is a small PHP project that demonstrates the **MVC pattern** (Model–View–Controller).

@@ -32,7 +32,7 @@ mvc_user/
 
 1) Clone the repository
 ```bash
-git clone https://github.com/<bluenoe>/mvc-user-management.git
+git clone https://github.com/bluenoe/mvc-user-management.git
 cd mvc-user-management
 ```
 2) Move the folder into your web server root (or clone there directly) 

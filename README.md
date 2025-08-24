@@ -1,4 +1,4 @@
-#MVC User Management Assignment
+# MVC User Management Assignment
 
 Assignment PHP MVC at school.  
 This is a small PHP project that demonstrates the **MVC pattern** (Model–View–Controller).

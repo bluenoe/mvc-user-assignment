@@ -23,7 +23,7 @@
         <button type="submit">Search</button>
     </form>
 
-    <!-- Bảng danh sách -->
+    <!-- Bang danh sach -->
     <table>
         <tr>
             <th>Email</th>

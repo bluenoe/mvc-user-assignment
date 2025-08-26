@@ -1,7 +1,7 @@
 <?php
 $dsn = 'mysql:host=localhost;dbname=mvc_userdb;charset=utf8mb4';
 $username = 'root';      // tuy Laragon / xampp
-$password = 'sesame';          
+$password = '';          
 
 try {
     $db = new PDO($dsn, $username, $password);
